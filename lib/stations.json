@@ -1,0 +1,914 @@
+{
+	"adlershof": {
+		"id": "900000193002",
+		"location": {
+			"latitude": 52.435104,
+			"longitude": 13.54055,
+			"type": "location"
+		},
+		"name": "S Adlershof",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"ahrensfelde": {
+		"id": "900000170004",
+		"location": {
+			"latitude": 52.57156,
+			"longitude": 13.566116,
+			"type": "location"
+		},
+		"name": "S Ahrensfelde",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"baumschulenweg": {
+		"id": "900000191001",
+		"location": {
+			"latitude": 52.467582,
+			"longitude": 13.489501,
+			"type": "location"
+		},
+		"name": "S Baumschulenweg",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"bernau": {
+		"id": "900000350160",
+		"location": {
+			"latitude": 52.676231,
+			"longitude": 13.593038,
+			"type": "location"
+		},
+		"name": "S Bernau",
+		"products": {
+			"bus": true,
+			"express": true,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"birkenwerder": {
+		"id": "900000200008",
+		"location": {
+			"latitude": 52.687872,
+			"longitude": 13.288421,
+			"type": "location"
+		},
+		"name": "S Birkenwerder",
+		"products": {
+			"bus": false,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"blankenburg": {
+		"id": "900000142001",
+		"location": {
+			"latitude": 52.591067,
+			"longitude": 13.442972,
+			"type": "location"
+		},
+		"name": "S Blankenburg",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"blankenfelde": {
+		"id": "900000245027",
+		"location": {
+			"latitude": 52.337625,
+			"longitude": 13.415906,
+			"type": "location"
+		},
+		"name": "S Blankenfelde (TF)",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"bornholmer": {
+		"id": "900000110011",
+		"location": {
+			"latitude": 52.554759,
+			"longitude": 13.397838,
+			"type": "location"
+		},
+		"name": "S Bornholmer Str.",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"buch": {
+		"id": "900000135001",
+		"location": {
+			"latitude": 52.636615,
+			"longitude": 13.492449,
+			"type": "location"
+		},
+		"name": "S Buch",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"erkner": {
+		"id": "900000310004",
+		"location": {
+			"latitude": 52.428398,
+			"longitude": 13.752246,
+			"type": "location"
+		},
+		"name": "S Erkner",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"friedrich": {
+		"id": "900000100001",
+		"location": {
+			"latitude": 52.520268,
+			"longitude": 13.387149,
+			"type": "location"
+		},
+		"name": "S+U Friedrichstr.",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": true,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"friedrichsfelde ost": {
+		"id": "900000171002",
+		"location": {
+			"latitude": 52.51375,
+			"longitude": 13.520046,
+			"type": "location"
+		},
+		"name": "S Friedrichsfelde Ost",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"frohnau": {
+		"id": "900000092201",
+		"location": {
+			"latitude": 52.632956,
+			"longitude": 13.289563,
+			"type": "location"
+		},
+		"name": "S Frohnau",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"gesundbrunnen": {
+		"id": "900000007102",
+		"location": {
+			"latitude": 52.548638,
+			"longitude": 13.388372,
+			"type": "location"
+		},
+		"name": "S+U Gesundbrunnen",
+		"products": {
+			"bus": true,
+			"express": true,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": true,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"grünau": {
+		"id": "900000186001",
+		"location": {
+			"latitude": 52.412712,
+			"longitude": 13.574017,
+			"type": "location"
+		},
+		"name": "S Grünau",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"hennigsdorf": {
+		"id": "900000200000",
+		"location": {
+			"latitude": 52.637865,
+			"longitude": 13.205873,
+			"type": "location"
+		},
+		"name": "S Hennigsdorf",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"hermann": {
+		"id": "900000079221",
+		"location": {
+			"latitude": 52.467177,
+			"longitude": 13.4317,
+			"type": "location"
+		},
+		"name": "S+U Hermannstr.",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": true,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"hohen neuendorf": {
+		"id": "900000200009",
+		"location": {
+			"latitude": 52.669435,
+			"longitude": 13.287225,
+			"type": "location"
+		},
+		"name": "S Hohen Neuendorf",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"hoppegarten": {
+		"id": "900000320045",
+		"location": {
+			"latitude": 52.509678,
+			"longitude": 13.657806,
+			"type": "location"
+		},
+		"name": "Hoppegarten, Bergstr.",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": false,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"königs wusterhausen": {
+		"id": "900000260001",
+		"location": {
+			"latitude": 52.296715,
+			"longitude": 13.63153,
+			"type": "location"
+		},
+		"name": "S Königs Wusterhausen",
+		"products": {
+			"bus": true,
+			"express": true,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"lichtenrade": {
+		"id": "900000074201",
+		"location": {
+			"latitude": 52.387677,
+			"longitude": 13.396238,
+			"type": "location"
+		},
+		"name": "S Lichtenrade",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"neukölln": {
+		"id": "900000078102",
+		"location": {
+			"latitude": 52.481147,
+			"longitude": 13.43481,
+			"type": "location"
+		},
+		"name": "U Rathaus Neukölln",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": false,
+			"subway": true,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"nikolassee": {
+		"id": "900000052201",
+		"location": {
+			"latitude": 52.431212,
+			"longitude": 13.193297,
+			"type": "location"
+		},
+		"name": "S Nikolassee",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"oranienburg": {
+		"id": "900000200005",
+		"location": {
+			"latitude": 52.754365,
+			"longitude": 13.248428,
+			"type": "location"
+		},
+		"name": "S Oranienburg",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"ostkreuz": {
+		"id": "900000120003",
+		"location": {
+			"latitude": 52.502847,
+			"longitude": 13.469095,
+			"type": "location"
+		},
+		"name": "S Ostkreuz",
+		"products": {
+			"bus": true,
+			"express": true,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"pankow": {
+		"id": "900000130002",
+		"location": {
+			"latitude": 52.567281,
+			"longitude": 13.412283,
+			"type": "location"
+		},
+		"name": "S+U Pankow",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": true,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"potsdam": {
+		"id": "900000230999",
+		"location": {
+			"latitude": 52.390931,
+			"longitude": 13.067187,
+			"type": "location"
+		},
+		"name": "S Potsdam Hauptbahnhof",
+		"products": {
+			"bus": true,
+			"express": true,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"priesterweg": {
+		"id": "900000058102",
+		"location": {
+			"latitude": 52.45924,
+			"longitude": 13.356029,
+			"type": "location"
+		},
+		"name": "S Priesterweg",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"schöneberg": {
+		"id": "900000054104",
+		"location": {
+			"latitude": 52.479807,
+			"longitude": 13.352847,
+			"type": "location"
+		},
+		"name": "S Schöneberg",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"schönefeld": {
+		"id": "900000260005",
+		"location": {
+			"latitude": 52.390796,
+			"longitude": 13.51352,
+			"type": "location"
+		},
+		"name": "S Flughafen Berlin-Schönefeld",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"schöneweide": {
+		"id": "900000192001",
+		"location": {
+			"latitude": 52.45461,
+			"longitude": 13.510149,
+			"type": "location"
+		},
+		"name": "S Schöneweide",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"schönhauser": {
+		"id": "900000110001",
+		"location": {
+			"latitude": 52.549339,
+			"longitude": 13.415142,
+			"type": "location"
+		},
+		"name": "S+U Schönhauser Allee",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": true,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"schönholz": {
+		"id": "900000085201",
+		"location": {
+			"latitude": 52.571902,
+			"longitude": 13.380246,
+			"type": "location"
+		},
+		"name": "S Schönholz",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"spandau": {
+		"id": "900000029101",
+		"location": {
+			"latitude": 52.534794,
+			"longitude": 13.197477,
+			"type": "location"
+		},
+		"name": "S Spandau",
+		"products": {
+			"bus": true,
+			"express": true,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": true,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"spindlersfeld": {
+		"id": "900000180003",
+		"location": {
+			"latitude": 52.445936,
+			"longitude": 13.5627,
+			"type": "location"
+		},
+		"name": "S Spindlersfeld",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"springpfuhl": {
+		"id": "900000171003",
+		"location": {
+			"latitude": 52.525805,
+			"longitude": 13.536901,
+			"type": "location"
+		},
+		"name": "S Springpfuhl",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"strausberg nord": {
+		"id": "900000320001",
+		"location": {
+			"latitude": 52.590698,
+			"longitude": 13.908892,
+			"type": "location"
+		},
+		"name": "S Strausberg Nord",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"südkreuz": {
+		"id": "900000058101",
+		"location": {
+			"latitude": 52.475465,
+			"longitude": 13.365575,
+			"type": "location"
+		},
+		"name": "S Südkreuz",
+		"products": {
+			"bus": true,
+			"express": true,
+			"ferry": false,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"teltow": {
+		"id": "900000220001",
+		"location": {
+			"latitude": 52.38845,
+			"longitude": 13.299594,
+			"type": "location"
+		},
+		"name": "Teltow, Bhf",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": true,
+			"suburban": false,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"treptower park": {
+		"id": "900000190001",
+		"location": {
+			"latitude": 52.493426,
+			"longitude": 13.461283,
+			"type": "location"
+		},
+		"name": "S Treptower Park",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"waidmannslust": {
+		"id": "900000094101",
+		"location": {
+			"latitude": 52.606816,
+			"longitude": 13.320548,
+			"type": "location"
+		},
+		"name": "S Waidmannslust",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"wannsee": {
+		"id": "900000053301",
+		"location": {
+			"latitude": 52.421458,
+			"longitude": 13.179103,
+			"type": "location"
+		},
+		"name": "S Wannsee",
+		"products": {
+			"bus": true,
+			"express": true,
+			"ferry": true,
+			"regional": true,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"warschauer": {
+		"id": "900000120004",
+		"location": {
+			"latitude": 52.505768,
+			"longitude": 13.449157,
+			"type": "location"
+		},
+		"name": "S+U Warschauer Str.",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": true,
+			"tram": true
+		},
+		"type": "stop"
+	},
+	"wartenberg": {
+		"id": "900000151001",
+		"location": {
+			"latitude": 52.573268,
+			"longitude": 13.504234,
+			"type": "location"
+		},
+		"name": "S Wartenberg",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"westend": {
+		"id": "900000026207",
+		"location": {
+			"latitude": 52.518614,
+			"longitude": 13.284241,
+			"type": "location"
+		},
+		"name": "S Westend",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"westkreuz": {
+		"id": "900000024102",
+		"location": {
+			"latitude": 52.501148,
+			"longitude": 13.283036,
+			"type": "location"
+		},
+		"name": "S Westkreuz",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"yorck": {
+		"id": "900000600003",
+		"location": {
+			"latitude": 52.492788,
+			"longitude": 13.37042,
+			"type": "location"
+		},
+		"name": "S+U YORCKSTR.",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": true,
+			"subway": true,
+			"tram": false
+		},
+		"type": "stop"
+	},
+	"zeuthen": {
+		"id": "900000261122",
+		"location": {
+			"latitude": 52.338856,
+			"longitude": 13.636951,
+			"type": "location"
+		},
+		"name": "Zeuthen, Fontaneallee",
+		"products": {
+			"bus": true,
+			"express": false,
+			"ferry": false,
+			"regional": false,
+			"suburban": false,
+			"subway": false,
+			"tram": false
+		},
+		"type": "stop"
+	}
+}

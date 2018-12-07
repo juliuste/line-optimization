@@ -1,0 +1,43 @@
+{
+	"name": "boilerplate",
+	"description": "",
+	"version": "0.0.0",
+	"keywords": [],
+	"author": "Julius Tens <mail@juliustens.eu>",
+	"homepage": "https://github.com/juliuste/boilerplate",
+	"repository": "juliuste/boilerplate",
+	"bugs": "https://github.com/juliuste/boilerplate/issues",
+	"main": "lib/index.js",
+	"files": [
+		"lib/*"
+	],
+	"dependencies": {
+		"colorize-transit-graph": "0.0.1",
+		"graphlib": "^2.1.5",
+		"lodash": "^4.17.11",
+		"parse-gurobi-solution": "0.0.0",
+		"projections": "^1.0.0",
+		"svg-transit-map": "0.0.1",
+		"vbb-hafas": "^5.0.1"
+	},
+	"devDependencies": {
+		"depcheck": "^0.6.11",
+		"eslint": "^5.9.0",
+		"eslint-config-standard": "^12.0.0",
+		"eslint-plugin-import": "^2.14.0",
+		"eslint-plugin-node": "^8.0.0",
+		"eslint-plugin-promise": "^4.0.1",
+		"eslint-plugin-standard": "^4.0.0"
+	},
+	"scripts": {
+		"check-deps": "depcheck",
+		"lint": "eslint lib",
+		"fix": "eslint --fix lib",
+		"test": "npm run lint && npm run check-deps && node test",
+		"prepublishOnly": "npm test"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"license": "ISC"
+}
